@@ -1,3 +1,9 @@
+![Uploading Screenshot 2025-01-06 150409.png…]()
+
+
+
+
+
 # Power BI HR Analytics Dashboard
 
 ## Overview
