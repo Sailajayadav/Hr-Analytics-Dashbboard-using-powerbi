@@ -1,7 +1,8 @@
-![Uploading Screenshot 2025-01-06 150409.png…]()
 
 
 
+
+![Screenshot 2025-01-06 150409](https://github.com/user-attachments/assets/84ca33f9-bb04-46c2-88f7-7f171348be5f)
 
 
 # Power BI HR Analytics Dashboard
